@@ -16,8 +16,7 @@ alias urlencode='python3 -c "import sys, urllib.parse as ul; print(ul.quote_plus
 alias ggm='git checkout main && git pull'
 
 # NeoVim setup
-alias v='nvim' # default Neovim config
+alias nv='nvim' # default Neovim config
 
 # Starship setup
 eval "$(starship init zsh)"
-
