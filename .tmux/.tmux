@@ -1,1 +1,0 @@
-/home/alexdev/Workspace/my/Dotfiles/.tmux
