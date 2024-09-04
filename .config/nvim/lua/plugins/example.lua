@@ -112,6 +112,7 @@ return {
       ensure_installed = {
         "bash",
         "html",
+        "tmpl",
         "javascript",
         "json",
         "lua",
