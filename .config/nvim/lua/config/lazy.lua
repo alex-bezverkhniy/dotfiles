@@ -20,6 +20,8 @@ require("lazy").setup({
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
     -- import/override with your plugins
     { import = "plugins" },
+    -- custom plugins
+    { import = "lazyvim.plugins.extras.formatting.prettier" },
   },
   ui = {
     border = "rounded",
